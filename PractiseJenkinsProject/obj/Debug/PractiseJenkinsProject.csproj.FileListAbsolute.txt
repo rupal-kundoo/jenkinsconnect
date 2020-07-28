@@ -1,0 +1,7 @@
+E:\LTI\LTI Training\C#\DevOps Day3\PractiseJenkinsSolution\PractiseJenkinsProject\bin\Debug\PractiseJenkinsProject.exe.config
+E:\LTI\LTI Training\C#\DevOps Day3\PractiseJenkinsSolution\PractiseJenkinsProject\bin\Debug\PractiseJenkinsProject.exe
+E:\LTI\LTI Training\C#\DevOps Day3\PractiseJenkinsSolution\PractiseJenkinsProject\bin\Debug\PractiseJenkinsProject.pdb
+E:\LTI\LTI Training\C#\DevOps Day3\PractiseJenkinsSolution\PractiseJenkinsProject\obj\Debug\PractiseJenkinsProject.csprojAssemblyReference.cache
+E:\LTI\LTI Training\C#\DevOps Day3\PractiseJenkinsSolution\PractiseJenkinsProject\obj\Debug\PractiseJenkinsProject.csproj.CoreCompileInputs.cache
+E:\LTI\LTI Training\C#\DevOps Day3\PractiseJenkinsSolution\PractiseJenkinsProject\obj\Debug\PractiseJenkinsProject.exe
+E:\LTI\LTI Training\C#\DevOps Day3\PractiseJenkinsSolution\PractiseJenkinsProject\obj\Debug\PractiseJenkinsProject.pdb
